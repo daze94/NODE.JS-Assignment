@@ -11,4 +11,4 @@ Clone the repository to your local machine:
 
 git clone https://github.com/daze94/NODE.JS-Assignment.git
 
-Link to the walkthrough video: https://youtu.be/e4rvnQswNWY?si=YO0zA1d3OvMAl8we
+Link to the walkthrough video: https://www.youtube.com/watch?v=aysz4yPy-MM
